@@ -1,0 +1,16 @@
+credencials:
+  usernames:
+    "admin":
+      email: brunomartins2601@gmail.com
+      logged_in: False
+      name: Bruno Martins
+      password: "admin"
+    "admin1":
+      email:
+      logged_in: False
+      name: Bruno Henrique Martins
+      password: "admin"
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
