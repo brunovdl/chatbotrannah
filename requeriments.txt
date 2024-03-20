@@ -1,5 +1,5 @@
-streamlit-chat
 streamlit-authenticator
+streamlit-chat
 langchain
 pypdf2
 openai
